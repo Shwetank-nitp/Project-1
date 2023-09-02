@@ -95,7 +95,7 @@ public class Percolation {
         return wq.find(virtualTop) == wq.find(virtualBottom);
     }
 
-    // test client (optional)
+    // test client
     public static void main(String[] args) {
         int n = Integer.parseInt(args[0]);
         Percolation percolation = new Percolation(n);
