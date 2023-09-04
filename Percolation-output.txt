@@ -1,0 +1,4 @@
+Lattice is conducting...
+Total number of open lattice is : 23759
+Percolation threshold is : 0.593975
+Time taken : 0.054
